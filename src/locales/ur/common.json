@@ -1,0 +1,78 @@
+{
+  "app": {
+    "name": "عربہ",
+    "welcome": "خوش آمدید!",
+    "loading": "لوڈ ہو رہا ہے..."
+  },
+  "navigation": {
+    "home": "ہوم",
+    "search": "تلاش",
+    "orders": "آرڈرز",
+    "profile": "پروفائل"
+  },
+  "auth": {
+    "login": "لاگ ان کریں",
+    "signup": "سائن اپ کریں",
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "forgotPassword": "پاس ورڈ بھول گئے؟",
+    "continueWithGoogle": "گوگل کے ساتھ جاری رکھیں",
+    "welcomeMessage": "عربہ میں خوش آمدید"
+  },
+  "marketplace": {
+    "restaurants": "ریستوراں",
+    "pharmacies": "فارمیسیز",
+    "featuredVendors": "نمایاں وینڈرز",
+    "searchPlaceholder": "ریستوراں یا اشیاء تلاش کریں..."
+  },
+  "cart": {
+    "title": "کارٹ",
+    "subtotal": "ذیلی کل",
+    "deliveryFee": "ڈیلیوری فیس",
+    "total": "کل",
+    "promoCode": "پروومو کوڈ",
+    "checkout": "چیک آؤٹ",
+    "remove": "ہٹائیں"
+  },
+  "checkout": {
+    "deliveryAddress": "ڈیلیوری ایڈریس",
+    "paymentMethod": "ادائیگی کا طریقہ",
+    "orderSummary": "آرڈر کا خلاصہ",
+    "deliveryTime": "ڈیلیوری کا وقت",
+    "now": "اب",
+    "schedule": "شیڈول",
+    "tip": "ٹپ",
+    "placeOrder": "آرڈر دیں",
+    "cash": "کیش",
+    "card": "کارڈ"
+  },
+  "tracking": {
+    "confirmed": "تصدیق شدہ",
+    "onTheWay": "راستے میں",
+    "delivered": "ڈیلیور ہو گیا",
+    "orderDetails": "آرڈر کی تفصیلات",
+    "estimatedTime": "متوقع وقت",
+    "payment": "ادائیگی",
+    "driver": "ڈرائیور"
+  },
+  "profile": {
+    "personalInfo": "ذاتی معلومات",
+    "addresses": "پتے",
+    "paymentMethods": "ادائیگی کے طریقے",
+    "orderHistory": "آرڈر کی تاریخ",
+    "notifications": "اطلاعات",
+    "languageSettings": "زبان کی ترتیبات",
+    "darkMode": "ڈارک موڈ",
+    "helpSupport": "مدد اور سپورٹ",
+    "logout": "لاگ آؤٹ"
+  },
+  "common": {
+    "addToCart": "کارٹ میں شامل کریں",
+    "rating": "ریٹنگ",
+    "deliveryTime": "ڈیلیوری کا وقت",
+    "min": "منٹ",
+    "aed": "درہم",
+    "submit": "جمع کرائیں"
+  }
+}
+

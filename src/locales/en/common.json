@@ -1,0 +1,78 @@
+{
+  "app": {
+    "name": "Araba",
+    "welcome": "Welcome!",
+    "loading": "Loading..."
+  },
+  "navigation": {
+    "home": "Home",
+    "search": "Search",
+    "orders": "Orders",
+    "profile": "Profile"
+  },
+  "auth": {
+    "login": "Log in",
+    "signup": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "continueWithGoogle": "Continue with Google",
+    "welcomeMessage": "Welcome to Araba"
+  },
+  "marketplace": {
+    "restaurants": "Restaurants",
+    "pharmacies": "Pharmacies",
+    "featuredVendors": "Featured Vendors",
+    "searchPlaceholder": "Search for restaurants or items..."
+  },
+  "cart": {
+    "title": "Cart",
+    "subtotal": "Subtotal",
+    "deliveryFee": "Delivery Fee",
+    "total": "Total",
+    "promoCode": "Promo Code",
+    "checkout": "Checkout",
+    "remove": "Remove"
+  },
+  "checkout": {
+    "deliveryAddress": "Delivery Address",
+    "paymentMethod": "Payment Method",
+    "orderSummary": "Order Summary",
+    "deliveryTime": "Delivery Time",
+    "now": "Now",
+    "schedule": "Schedule",
+    "tip": "Tip",
+    "placeOrder": "Place Order",
+    "cash": "Cash",
+    "card": "Card"
+  },
+  "tracking": {
+    "confirmed": "Confirmed",
+    "onTheWay": "On the way",
+    "delivered": "Delivered",
+    "orderDetails": "Order Details",
+    "estimatedTime": "Estimated Time",
+    "payment": "Payment",
+    "driver": "Driver"
+  },
+  "profile": {
+    "personalInfo": "Personal Info",
+    "addresses": "Addresses",
+    "paymentMethods": "Payment Methods",
+    "orderHistory": "Order History",
+    "notifications": "Notifications",
+    "languageSettings": "Language Settings",
+    "darkMode": "Dark Mode",
+    "helpSupport": "Help & Support",
+    "logout": "Logout"
+  },
+  "common": {
+    "addToCart": "Add to Cart",
+    "rating": "Rating",
+    "deliveryTime": "Delivery Time",
+    "min": "min",
+    "aed": "AED",
+    "submit": "Submit"
+  }
+}
+

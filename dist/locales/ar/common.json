@@ -1,0 +1,77 @@
+{
+  "app": {
+    "name": "عربة",
+    "welcome": "مرحباً!",
+    "loading": "جاري التحميل..."
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "search": "البحث",
+    "orders": "الطلبات",
+    "profile": "الملف الشخصي"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "continueWithGoogle": "المتابعة مع جوجل",
+    "welcomeMessage": "مرحباً بك في عربة"
+  },
+  "marketplace": {
+    "restaurants": "المطاعم",
+    "pharmacies": "الصيدليات",
+    "featuredVendors": "المتاجر المميزة",
+    "searchPlaceholder": "ابحث عن مطعم أو منتج..."
+  },
+  "cart": {
+    "title": "السلة",
+    "subtotal": "المجموع الفرعي",
+    "deliveryFee": "رسوم التوصيل",
+    "total": "المجموع",
+    "promoCode": "كود الخصم",
+    "checkout": "إتمام الطلب",
+    "remove": "إزالة"
+  },
+  "checkout": {
+    "deliveryAddress": "عنوان التوصيل",
+    "paymentMethod": "طريقة الدفع",
+    "orderSummary": "ملخص الطلب",
+    "deliveryTime": "وقت التوصيل",
+    "now": "الآن",
+    "schedule": "جدولة",
+    "tip": "إكرامية",
+    "placeOrder": "تأكيد الطلب",
+    "cash": "نقداً",
+    "card": "بطاقة"
+  },
+  "tracking": {
+    "confirmed": "مؤكد",
+    "onTheWay": "في الطريق",
+    "delivered": "تم التوصيل",
+    "orderDetails": "تفاصيل الطلب",
+    "estimatedTime": "الوقت المتوقع",
+    "payment": "الدفع",
+    "driver": "السائق"
+  },
+  "profile": {
+    "personalInfo": "المعلومات الشخصية",
+    "addresses": "العناوين",
+    "paymentMethods": "طرق الدفع",
+    "orderHistory": "تاريخ الطلبات",
+    "notifications": "الإشعارات",
+    "languageSettings": "إعدادات اللغة",
+    "darkMode": "الوضع المظلم",
+    "helpSupport": "المساعدة والدعم",
+    "logout": "تسجيل الخروج"
+  },
+  "common": {
+    "addToCart": "أضف للسلة",
+    "rating": "التقييم",
+    "deliveryTime": "وقت التوصيل",
+    "min": "دقيقة",
+    "aed": "درهم"
+  }
+}
+
